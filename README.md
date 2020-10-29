@@ -12,3 +12,6 @@ Exercícios desenvolvidos durante a leitura do livro Lógica de Programação e 
 
 ### Exercício 6_a
   No exercício 6_a foi desenvolvido um programa para que de forma simples possamos criptografar mensagens e também decriptografar. Para alcançar o resultado foi utilizado o método charAt() para embaralhar as letras.
+
+### Exercício 6_d
+  Neste exercício será calculado um desconto de 20% para a multa que for paga em até 90 dias, ao informar a data da infração e o valor da multa, o programa devolve a data limite para o pagamento com desconto e o valor a ser pago. Uma instância do date() foi usada para realizar o cálculo dos dias.
